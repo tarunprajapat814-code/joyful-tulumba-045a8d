@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://joyful-tulumba-045a8d.netlify.app/sitemap.xml

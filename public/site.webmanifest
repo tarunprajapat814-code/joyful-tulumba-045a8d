@@ -1,0 +1,15 @@
+{
+  "name": "Apna Vyapar",
+  "short_name": "Vyapar",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f3eadb",
+  "theme_color": "#b95337",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
